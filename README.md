@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Kushwaha
-- 👀 I’m interested in Android development
-- 🌱 I’m currently working on some side projects to fortify my Kotlin skills.
-- 💞️ I’m looking forward for a fresher job opportunity as an Android Dev
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently working as a Mobile Developer with hands-on Android (Kotlin) and Flutter
+- 💞️ I’m looking for a change.
 - 📫 You can reach me at kushwahasumit024@gmail.com
 
 <!---
