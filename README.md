@@ -2,9 +2,7 @@
 
 🚀 **Mobile Developer | Flutter & Native Android | 3+ YOE**
 
-I build apps that are smooth, scalable, and user-friendly. Over the past **3+ years**, I've worked across domains like **legal tech, food delivery, multi-module architectures, document storage, and car trading platforms**.  
-
-Currently exploring **AI integrations**, **animations in Flutter**, and **offline-first architectures** to level up my app game.  
+I build apps that are smooth, scalable, and user-friendly. Over the past **3+ years**, I've worked across domains like **legal tech, food delivery, multi-module architectures, document storage, and travel**.  
 
 ---
 
