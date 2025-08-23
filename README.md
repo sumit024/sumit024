@@ -17,27 +17,8 @@ Currently exploring **AI integrations**, **animations in Flutter**, and **offlin
 
 ---
 
-### 💼 Notable Work
-- **Legistify App** – Developed from scratch & handled the entire live process, including **Google Play & App Store setup**.  
-- Integrated **Generative AI (Gemini)** for document summarization & chatbot features.  
-- Delivered **multi-module Flutter apps** with clean architecture and maintainable codebases.  
-
----
-
-### 🌱 Currently
-- Diving deep into **Flutter animations** 🎨  
-- Building an **offline-first facial recognition attendance app**  
-- Sharing knowledge through **tech talks** and **engineering sessions**
-
----
-
-### 📈 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumit&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/sumit](#)
-- **Email:** sumit@example.com
+- **LinkedIn:** [linkedin.com/in/kushwahasumit](https://www.linkedin.com/in/kushwahasumit)
+- **Email:** kushwahasumit024@gmail.com  
 
-_"I create apps that don’t just work — they scale."_  
+_"I create apps that don’t just work — they scale."_
