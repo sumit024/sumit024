@@ -18,5 +18,6 @@ I build apps that are smooth, scalable, and user-friendly. Over the past **3+ ye
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/kushwahasumit](https://www.linkedin.com/in/kushwahasumit)
 - **Email:** kushwahasumit024@gmail.com  
+- **Portfolio:** [https://sumit024.github.io/sumit_portfolio/](https://sumit024.github.io/sumit_portfolio/)
 
 _"I create apps that don’t just work — they scale."_
