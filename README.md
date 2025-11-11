@@ -8,7 +8,7 @@ I build apps that are smooth, scalable, and user-friendly. Over the past **3+ ye
 
 ### 🛠️ Tech Stack
 - **Mobile:** Flutter, Dart, Native Android (Java/Kotlin)
-- **State Management:** BloC, Cubit, Provider, Riverpod
+- **State Management:** Bloc, Cubit, Provider, Riverpod
 - **Backend/Integration:** REST APIs, Firebase, Dio, AI SDKs
 - **Tools & DevOps:** Shorebird OTA, Git, CI/CD, Fastlane
 - **Other:** Analytics, In-app Purchases, Push Notifications
